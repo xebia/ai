@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "A(i) to Z"
 categories: ML AI GenAI Beginners Guide Explanation Microsoft
 description: A comprehensive overview of AI, covering the most important concepts, technologies, and tools.
