@@ -10,7 +10,7 @@ linkedin_username: xebia
 show_excerpts: true
 author: Xebia Microsoft Services
 
-google_analytics: UA-121311213-1
+google_analytics: TODO
 
 markdown: kramdown
 theme: minima
