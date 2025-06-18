@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A(i) to Z"
+title: "A(i) to Z"
 categories: ML AI GenAI Beginners Guide Explanation Microsoft
 description: A comprehensive overview of AI, covering the most important concepts, technologies, and tools.
 excerpt_separator: <!--excerpt_end-->
@@ -8,7 +8,7 @@ image: /assets/ai-to-z/logo.png
 permalink: ai-to-z
 ---
 
-The goal is not to dive into every detail of AI, but to provide a comprehensive overview of the most important concepts, technologies, and tools. This document is intended to be a starting point for anyone interested in learning about AI, whether you are a beginner or have some experience.<!--excerpt_end-->
+A comprehensive overview of the most important concepts, technologies, and tools surrounding AI. The goal is not to dive into every detail of AI, but to provide a solid foundation and a starting point for anyone interested in learning about AI, whether you are a beginner or have some experience.<!--excerpt_end-->
 
 ## Table of Contents
 
